@@ -1,2 +1,7 @@
-# Group3
-Our Introduction to Information Technology Assignment log
+<!DOCTYPE html>
+<html>
+  <body>
+    <title>IT Mob</title>
+    <p>Test</p>
+  </body>
+</html>
