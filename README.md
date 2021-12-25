@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <title>IT Mob</title>
+    <h1IT Mob</h1>
     <p>Test</p>
   </body>
 </html>
