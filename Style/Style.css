@@ -1,0 +1,56 @@
+
+header {                text-align: center;
+                        color: white;
+                        margin-bottom: 5px; 
+                        background-size:cover;
+                        background:no-repeat;
+                        padding-bottom:400px;
+                        margin: top 1000px;
+                        font-size: 100px;
+                        border:5px solid black;
+
+        
+}
+.nav{               text-align: center;
+                    font-size: 30px;
+                    color: white;
+                    padding-top: 50px;
+                    border: 0px solid white;
+                    padding-bottom: 10px;
+                    padding-top: 50px;
+                    
+}
+
+
+
+.title          {color: white;}
+main            {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;mar}
+img             {width: 200px;border-radius: 50%;padding-top:15px;height: 200px;}
+
+.matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;caption-side: ;}
+.angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
+.maddison-info  {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.beau-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.cameron-info   {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+.kieran-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+                            
+
+
+
+
+
+
+
+
+h1{                 text-align:                     center;
+                    background-color:            #008000;         
+}
+
+
+Body{               background-color:          whitesmoke;
+                        font-size:                  25px;
+
+
+    }
+
+
