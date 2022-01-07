@@ -54,6 +54,12 @@ h1{                 text-align:                     center;
                     padding-top: 10px;
                            
 }
+h5{                    text-align: center;                
+
+
+
+
+}
 
 
 Body{               background-color:          whitesmoke;
@@ -61,6 +67,15 @@ Body{               background-color:          whitesmoke;
 
 
     }
+
+table{              width: 70%;border: 2px solid black;
+
+
+
+
+
+}
+td{                 border: solid black;text-align: center;}
 
 
 
