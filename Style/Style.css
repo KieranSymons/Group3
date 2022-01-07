@@ -1,22 +1,25 @@
 
-header {                text-align: center;
-                        color: white;
-                        margin-bottom: 5px; 
+.header {                
+                        
+                    
                         background-size:cover;
                         background:no-repeat;
-                        padding-bottom:400px;
-                        margin: top 1000px;
-                        font-size: 100px;
-                        border:5px solid black;
+                        
+                    
 
         
 }
-.nav{               text-align: center;
+.nav{               
+                    
+                    position:-webkit-sticky
+                    position: sticky;
+                    top: 0;
                     font-size: 30px;
+                    text-align: center;
                     color: white;
                     padding-top: 50px;
                     border: 0px solid white;
-                    padding-bottom: 10px;
+                    padding-bottom: 400px;
                     padding-top: 50px;
                     
 }
@@ -25,7 +28,7 @@ header {                text-align: center;
 
 .title          {color: white;}
 main            {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;mar}
-img             {width: 200px;border-radius: 50%;padding-top:15px;height: 200px;}
+img             {width: 200px; border-radius: 50%;padding-top:15px;height: 200px;}
 
 .matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;caption-side: ;}
 .angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
@@ -36,14 +39,20 @@ img             {width: 200px;border-radius: 50%;padding-top:15px;height: 200px;
                             
 
 
+.video          { position: relative;
+                margin-top: 10px;
+                padding-top: 20px;
 
+}
 
 
 
 
 
 h1{                 text-align:                     center;
-                    background-color:            #008000;         
+                    background-color:            #008000; 
+                    padding-top: 10px;
+                           
 }
 
 
@@ -52,5 +61,7 @@ Body{               background-color:          whitesmoke;
 
 
     }
+
+
 
 
