@@ -34,7 +34,7 @@
 
 .title              {color: white;display: inline-block;}
 main                {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;}
-img                 {width: 255px; border-radius: 50%;padding-top:15px;height: 255px;}
+img                 {width: 255px; border-radius: 50%;padding-top:15px;height: auto;}
 
 .matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
 .angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
@@ -117,12 +117,25 @@ footer                  {font-size: 28px;
                     
                     
 .bottomnavlist               
-                    {font-size: 22px;
+                    {font-size: 50%;
                     position: absolute;
                     right: 0px;
                     display: block;
                     padding-top: 250px;                                                
                     
+}
+.references         {font-size: 12px;
+
+                     
+
+
+
+
+}
+.references2            {display: block;
+                        font-size: 12px;                        
+
+
 }
  
      
