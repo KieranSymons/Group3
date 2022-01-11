@@ -26,22 +26,64 @@
                     padding-bottom:                     400px;
                     margin-left: 0px;
                     padding-left:                        0px;
-                    max-height:                         200px                         
+                    height:                         200px                         
                     
+}
+
+main{                       font-size: 25px;
+                            display: inline-block;
+                            max-width: 100%;
+                            padding-bottom: 20px;
+
+                            
+
+
+
+
+
+
+
+
+}
+.studentid            {
+                        font-size: 25px;
+                        display: inline-block;
+                        max-width: 33%;
+                        max-height:auto;
+                        margin-left: auto;
+                        margin-right: auto;
+                        padding-top: 0;
+                        text-align: left;
+                        vertical-align: top;
+
+
+
+
+
+
 }
 
 
 
 .title              {color: white;display: inline-block;}
-main                {max-width: 1250px;display: inline-block;text-align: left;margin-left:15%;}
 img                 {width: 255px; border-radius: 50%;padding-top:15px;height: auto;}
 
-.matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
-.angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
-.maddison-info  {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
-.beau-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
-.cameron-info   {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
-.kieran-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+
+
+
+
+
+
+
+
+
+
+matt-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+angadh-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block}
+maddison-info  {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+beau-info      {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+cameron-info   {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
+kieran-info    {width: 400px;font-size: 20px;text-align: left;display: inline-block;}
 
 
 .Personal Information    {display: block;max-height: 50px;max-width: 100px;padding: 0px;}
@@ -137,6 +179,9 @@ footer                  {font-size: 28px;
 
 
 }
+.captions              {margin-left: auto; 
+                        margin-right: auto;
+                        width: 50%;}
  
      
 
