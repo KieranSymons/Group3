@@ -48,13 +48,14 @@ main{                       font-size: 25px;
 .studentid            {
                         font-size: 25px;
                         display: inline-block;
-                        max-width: 33%;
+                        max-width: 30%;
                         max-height:auto;
                         margin-left: auto;
                         margin-right: auto;
                         padding-top: 0;
                         text-align: left;
-                        vertical-align: tops;
+                        vertical-align: top;
+                        padding: 20px;
 
 
 
@@ -125,6 +126,9 @@ table{                  width: 80%;
 }          
 .teamtable              {text-align: left;
                         border: 2px solid black;
+                        margin-left: auto;
+                        margin-right: auto;
+                        
     
 
 
@@ -142,7 +146,7 @@ td{
                 
                 
 }
-th                      {font-size: 28px;}
+th                      {font-size: 28px;width:}
 
 
 
@@ -151,7 +155,7 @@ th                      {font-size: 28px;}
 
 
 footer                  {font-size: 28px;
-                        padding-left: ;
+                        padding-left: 50px;
                         background-color: green;
                         color: white;
                         padding-top: 25px;
@@ -192,7 +196,13 @@ footer                  {font-size: 28px;
  .pie-chart {width: 30px;
 
  }    
+.sidebside{               display:inline-block;
+                          width: 49%;
 
+
+
+
+}
 
 
 
