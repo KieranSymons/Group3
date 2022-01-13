@@ -86,11 +86,8 @@ img                 {width: 255px; border-radius: 50%;padding-top:15px;height: a
                        
 
 
-.video          {display: block;
-                margin-top: 10px;
-                padding-top: 20px;
 
-}
+
 
 
 
@@ -203,6 +200,8 @@ footer                  {font-size: 28px;
 
 
 }
+video{ width: 300px; margin-right: 89%; margin-bottom:0px; padding:0;       
 
+ }
 
 
