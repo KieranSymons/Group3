@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+            <head>
+                <title> Team Profile </title>
+                <link href="Style/Style.css" rel="stylesheet">
+            </head>
+            
+   <header style="background-image: url(images/forest-3.jpg);">
+    <nav class= "nav">   
+      
+        <img style="display: in-block;padding-top: 5px;max-height: 100px; max-width: 100px; opacity: 0.5;" src= "images/it.mob.logo.png" alt="it mob logo" >
+        <br><P style="font-size: 9px;padding-top: 0px;">Figure 2: IT MOB, by free logo design, n.d., png </P>
+
+        <Strong> 
+             <a class="title"style="padding: 5px;" href="index.html">Personal Information </a> 
+             <a class="title"style="padding: 5px;" href="team-profile.html">Team Profile                 </a> 
+             <a class="title"style="padding: 5px;" href="ideal.job.html">Ideal Jobs                     </a>
+             <a class="title"style="padding: 5px;" href="#Tools">Tools                               </a>                                                    <!--This may need to be deleted-->
+             <a class="title"style="padding: 5px;" href="industry.data.html">Industry Data               </a>
+             <a class="title"style="padding: 5px;" href="it.work.html">IT Work                           </a>
+             <a class="title"style="padding: 5px;" href="it.technologies.html"> IT Technologies          </a>
+             <a class="title"style="padding: 5px;" href="project.idea.html"> Project Ideas              </a>
+             <a class="title"style="padding: 5px;" href="group-reflection.html"> Group Reflection       </a>
+             <a class="title"style="padding: 5px;" href="New_project_plan.html"> Group Reflection       </a>
+             <a class="title"style="padding: 5px;" href="New_team_profile.html"> Group Reflection       </a>
+             <a class="title"style="padding: 5px;" href="New_skills_and_jobs.html"> New Skills and Jobs       </a>
+             
+                                     
+         </Strong>
+         
+   
+   
+   
+        </nav>
+        <P style="font-size: 14px;color: white;text-align: center;">Figure 3: Pine Forest wallpapers and stock photos, by Wallpaper Stock, 21 November 2017, jpg</P>
+   
+   
+   
+   
+    </header>
+<body>
+
+
+
+</p>
+<h1><strong>Skills and Jobs</strong></h1>
+<p>
+    To bring this project into the next level of production there will need to be an expansion of team members to ensure the application and game run seamlessly in the real world and have the ability to be seen by the end-users through advertising and promotion. 
+</p>
+
+<p>
+    As the groundwork for this project has already been completed and we have already established all relevant data within the world of recycling there will be no need for a research team. Any additional information that needs to be researched, myself as the project manager can handle.
+</p>
+
+<p>
+    The first positions that I believe the project will require is two software programmers. This App And game will need to be glitch-free and run seamlessly without delay from the moment it is released into the public.
+    One of the programmers main focus will be on the user interface App development side, ensuring the front and back ends in completed to a satisfactory level while the other programmer focuses on the game development side.
+    While being able to collaborate their ideas together they will also complete extensive tests on each other's work. I understand that there will be a substantial cost in this as the average salary for a Software Programmer is $106,483 per annum.
+    Even with this taken into consideration, I believe it is of paramount importance that the operation of this product is seamless and free-flowing from the start.
+</p>
+
+<p>
+    For the best-looking results in the application, I am suggesting the employment of a 3d designer to create all images and an appropriate colour scheme. The designer will be tasked with designing the user interface to be appealing to the eye as well as constructing the 3D characters inside the game.
+    As this is not an extensive or difficult position, my recommendation would be to seek a junior position as the salary average is lower at approximately $45,000 per annum.
+</p>
+
+<p>
+    Marketing will be an important aspect for this project as one of its primary roles is education, and this can be challenging to sell.
+    We will require a marketing coordinator to oversee all aspects of the advertising and funding options for the project. This is not a position we can save money on as the project will need great attention from government entities as that is our main source of funding.
+    Close attention must be paid to make sure the team is eligible for present and future grants. A position like this could expect a yearly salary average of $109,982
+</p>
+
+
+<ul class="bottomnavlist">
+    <li style="text-align: center; font-size: 25;list-style-type: none;"><strong>Navigation</strong></li>
+  <li>  <a href="index.html">Personal Information </a> </li>
+  <li> <a href="team-profile.html">Team Profile                 </a> </li>
+  <li> <a href="ideal.job.html">Ideal Jobs                     </a></li>
+  <li> <a href="tools.html">Tools                               </a>        </li>                                            <!--This may need to be deleted-->
+  <li><a href="industry.data.html">Industry Data               </a></li>
+  <li> <a href="it.work.html">IT Work                           </a></li>
+  <li> <a href="it.technologies.html"> IT Technologies          </a></li>
+  <li> <a href="project.idea.html"> Project Ideas              </a></li>
+  <li>  <a href="references.html">References          </a></li>
+  <li>  <a href="group-reflection.html">Group Reflection  </a></li>
+  <li><a href="New_project_plan.html">Project Plan     </a></li>
+  <li><a href="New_team_profile.html"> New Team Profile </a></li>
+  <li><a href="New_skills_and_jobs.html"> New Skills and Jobs </a></li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+<footer>
+    Website designed by The IT MOB<br><br>
+    <a style="color: white;" href="references.html">References</a>
+    </footer>
+
+</body>
+
+
+
+
+
+
+
+
+</html>
